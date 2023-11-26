@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3337wudqx5jc3hep?svg=true)](https://ci.appveyor.com/project/ivangol739/react-3-2)
+
 Список предложений
 ===
 
